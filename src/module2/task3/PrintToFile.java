@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-public abstract class PrintToFile {
+abstract class PrintToFile {
    abstract  void printToPDF();
 
     public static void printToWord(Book book) {
