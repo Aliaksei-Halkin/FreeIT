@@ -8,7 +8,6 @@ int wheels;
         this.weight = weight;
         this.wheels = wheels;
     }
-
     @Override
     public String toString() {
         return "Wagon{" +

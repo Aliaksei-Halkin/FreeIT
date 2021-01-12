@@ -14,6 +14,5 @@ public class Runner {
         lion.hunting();
         dog.run();
         cat.run();
-
     }
 }
