@@ -1,5 +1,14 @@
 # Default ignored files
 /shelf/
 *.xml
-D:\UpSkillLab1\FreeIT\.idea
+
 *.iml
+*.log
+
+/dist
+
+
+.env
+.idea/
+.vscode/
+*.sw*
